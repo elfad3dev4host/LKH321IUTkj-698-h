@@ -1,9 +1,9 @@
-
 {
   "Cofig": {
     "PrivacyPolicy": "https://www.covershootstudio.xyz/privacy-policy.html",
-    "MoreApp": "https://play.google.com/store/apps/developer?id=Garena+International+I",
+    "MoreApp": "https://play.google.com/store/apps/developer?id=Cover+Shoot+Studio",
     "ad_status": "1",
+    //Supported main ads value: admob, google_ad_manager, fan, startapp, unity, applovin_max, applovin_discovery or ironsource
     "ad_type": "admob",
     "backup_ads": "none",
     "admob_publisher_id": "pub-3940256099942544",
@@ -37,11 +37,11 @@
     {
       "image_id": "1",
       "image_name": "first",
-      "image_thumb": "https://wallpaper.dog/large/20470177.jpg",
-      "image_upload": "https://wallpaper.dog/large/20470177.jpg",
-      "image_url": "https://wallpaper.dog/large/20470177.jpg",
+      "image_thumb": "https://wallpaper.dog/large/966134.jpg",
+      "image_upload": "https://wallpaper.dog/large/966134.jpg",
+      "image_url": "https://wallpaper.dog/large/966134.jpg",
       "type": "upload",
-      "resolution": "535*713",
+      "resolution": "152*546",
       "size": "228.72 KB",
       "mime": "image/jpeg",
       "views": 120,
@@ -55,9 +55,9 @@
     {
       "image_id": "1",
       "image_name": "first",
-      "image_thumb": "https://cdn.leonardo.ai/users/eb388bd3-f971-4b76-b708-87d6a74e0e7a/generations/47d8d2e1-4d70-41a8-896e-246b0eacb7cf/DreamShaper_v6_A_Cute_Girly_Design_Featuring_A_Dreamcatcher_In_0.jpg",
-      "image_upload": "https://cdn.leonardo.ai/users/eb388bd3-f971-4b76-b708-87d6a74e0e7a/generations/47d8d2e1-4d70-41a8-896e-246b0eacb7cf/DreamShaper_v6_A_Cute_Girly_Design_Featuring_A_Dreamcatcher_In_0.jpg",
-      "image_url": "https://cdn.leonardo.ai/users/eb388bd3-f971-4b76-b708-87d6a74e0e7a/generations/47d8d2e1-4d70-41a8-896e-246b0eacb7cf/DreamShaper_v6_A_Cute_Girly_Design_Featuring_A_Dreamcatcher_In_0.jpg",
+      "image_thumb": "https://wallpaper.dog/large/20477158.jpg",
+      "image_upload": "https://wallpaper.dog/large/20477158.jpg",
+      "image_url": "https://wallpaper.dog/large/20477158.jpg",
       "type": "upload",
       "resolution": "152*546",
       "size": "228.72 KB",
@@ -109,9 +109,9 @@
     {
       "image_id": "1",
       "image_name": "first",
-      "image_thumb": "https://cdn.leonardo.ai/users/eb388bd3-f971-4b76-b708-87d6a74e0e7a/generations/e5ed01d4-dff3-4c43-9c2b-9a878ee1c1bf/Luna_A_Cute_Girly_Design_Featuring_A_Dreamcatcher_In_The_Middl_0.jpg",
-      "image_upload": "https://cdn.leonardo.ai/users/eb388bd3-f971-4b76-b708-87d6a74e0e7a/generations/e5ed01d4-dff3-4c43-9c2b-9a878ee1c1bf/Luna_A_Cute_Girly_Design_Featuring_A_Dreamcatcher_In_The_Middl_0.jpg",
-      "image_url": "https://cdn.leonardo.ai/users/eb388bd3-f971-4b76-b708-87d6a74e0e7a/generations/e5ed01d4-dff3-4c43-9c2b-9a878ee1c1bf/Luna_A_Cute_Girly_Design_Featuring_A_Dreamcatcher_In_The_Middl_0.jpg",
+      "image_thumb": "https://wallpaper.dog/large/20477158.jpg",
+      "image_upload": "https://wallpaper.dog/large/20477158.jpg",
+      "image_url": "https://wallpaper.dog/large/20477158.jpg",
       "type": "upload",
       "resolution": "152*546",
       "size": "228.72 KB",
