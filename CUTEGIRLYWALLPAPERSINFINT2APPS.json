@@ -47,10 +47,10 @@
       "views": 120,
       "downloads": 5,
       "featured": "yes",
-      "tags": "google,pixel 5,stock wallpaper",
+      "tags": " ",
       "category_id": "2",
-      "category_name": "Google",
-      "last_update": "2021-09-25 10:47:39"
+      "category_name": " ",
+      "last_update": "2021-06-07 10:47:39"
     },
     {
       "image_id": "1",
@@ -301,12 +301,6 @@
       "menu_title": "Popular",
       "menu_order": "popular",
       "menu_filter": "wallpaper"
-    },
-    {
-      "menu_id": "4",
-      "menu_title": "Live Wallpaper",
-      "menu_order": "live",
-      "menu_filter": "live"
     }
   ]
 }
